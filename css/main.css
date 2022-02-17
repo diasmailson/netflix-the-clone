@@ -66,6 +66,11 @@ header nav a:hover {
   font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 
+.filme-principal .sub-titulo {
+  font-size: 22px;
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
 .filme-principal .descricao {
   margin-top: 10px;
   margin-bottom: 40px;
