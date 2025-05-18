@@ -3,7 +3,7 @@ Clone do Netflix - projeto realizado no Bootcamp da [takeBlip](https://www.take.
 Ministrado por [@felipeAguiarCode](https://github.com/felipeAguiarCode)
 
 ### Visualize o projeto
-[https://netflixtheclone.netlify.app/](https://netflixtheclone.netlify.app/)
+[https://diasmailson.github.io/netflix-the-clone/](https://diasmailson.github.io/netflix-the-clone/)
 
 
 ### Tecnologias utilizadas
